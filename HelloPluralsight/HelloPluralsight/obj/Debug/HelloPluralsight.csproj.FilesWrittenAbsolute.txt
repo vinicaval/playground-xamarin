@@ -1,0 +1,10 @@
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/obj/Debug/HelloPluralsight.MainPage.xaml
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/obj/Debug/HelloPluralsight.MainPage.xaml.g.cs
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/bin/Debug/HelloPluralsight.dll.mdb
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/bin/Debug/HelloPluralsight.dll
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/obj/Debug/HelloPluralsight.dll
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/obj/Debug/HelloPluralsight.dll.mdb
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/bin/Debug/Xamarin.Forms.Core.dll
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/vinicaval/Projects/HelloPluralsight/HelloPluralsight/bin/Debug/Xamarin.Forms.Platform.dll
